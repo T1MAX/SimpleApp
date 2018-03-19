@@ -1,1 +1,1 @@
-My attempt to make an web-application using Websockets.
+My attempt to make a web-application using Websockets.
